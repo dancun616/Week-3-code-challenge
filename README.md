@@ -46,10 +46,6 @@ To open site in browser run while inside the cloned repo:
 
 Run program from the index.html file in browser.
 
-This is what the app look like :
-
-<img src="" width="600" height="300">
-
 
 # Author
 - [Dancun Odhiambo](https://www.github.com/dancun616)
