@@ -5,7 +5,7 @@ Flatdango: Flatiron Movie Theater is open for business! its a mini web-app that 
 theater.
 
 ## Built With
-- HTMnpmL
+- HTM
 - CSS
 - JavaScript
 
