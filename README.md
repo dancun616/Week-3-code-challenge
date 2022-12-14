@@ -15,6 +15,9 @@ To get started you need to do the following:
 ## Alternative One
 Use Github pages to check out website and perform operations from there.
 
+                https://dancun616.github.io/Week-3-code-challenge/
+
+
 ## Alternative Two
 ### Installation
 To use this repo on your machine requires some simple steps
